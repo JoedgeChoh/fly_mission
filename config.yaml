@@ -1,0 +1,50 @@
+position:
+  pos1:
+    latitude_deg: 47.398170327054473
+    longitude_deg: 8.5456490218639658
+    relative_altitude_m: 10.0
+    speed_m_s: 5.0
+    is_fly_through: false
+    gimbal_pitch_deg: 20.0
+    gimbal_yaw_deg: 60.0
+  pos2:
+    latitude_deg: 47.398241338125118
+    longitude_deg: 8.5455360114574432
+    relative_altitude_m: 10.0
+    speed_m_s: 2.0
+    is_fly_through: true
+    gimbal_pitch_deg: 0.0  
+    gimbal_yaw_deg: -60.0 
+  pos3:
+    latitude_deg: 47.398139363821485 
+    longitude_deg: 8.5453846156597137
+    relative_altitude_m: 10.0
+    speed_m_s: 5.0
+    is_fly_through: true
+    gimbal_pitch_deg: -45.0
+    gimbal_yaw_deg: 0.0 
+  pos4:
+    latitude_deg: 47.398058617228855
+    longitude_deg: 8.5454618036746979
+    relative_altitude_m: 10.0
+    speed_m_s: 2.0 
+    is_fly_through: false
+    gimbal_pitch_deg: -90.0 
+    gimbal_yaw_deg: 30.0 
+  pos5:
+    latitude_deg: 47.398100366082858
+    longitude_deg: 8.5456969141960144 
+    relative_altitude_m: 10.0
+    speed_m_s: 5.0 
+    is_fly_through: false
+    gimbal_pitch_deg: -45.0
+    gimbal_yaw_deg: -30.0 
+  pos6:
+    latitude_deg: 47.398001890458097
+    longitude_deg: 8.5455576181411743 
+    relative_altitude_m: 10.0
+    speed_m_s: 5.0 
+    is_fly_through: false
+    gimbal_pitch_deg: 0.0
+    gimbal_yaw_deg: 0.0 
+
